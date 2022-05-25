@@ -13,8 +13,6 @@ test.md for the comment
 - HTML
 - CSS
 
-
-
 ## Getting Started
 
 This project adds a style to h1 html elemet.
